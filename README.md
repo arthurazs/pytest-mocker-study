@@ -1,6 +1,6 @@
 # Pytest Mocker Study
 
-Tested on Ubuntu.
+Tested on Ubuntu. Requires `pip`.
 
 ```bash
 make install
